@@ -25,3 +25,5 @@ This module applies a generic `thermal-engine.conf` that works across most Andro
 6. (Optional) Check log:
    ```bash
    cat /data/local/tmp/thermalfix.log
+## License  
+This project is licensed under the [MIT License](LICENSE).
