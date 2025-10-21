@@ -18,7 +18,7 @@ This module applies a generic `thermal-engine.conf` that works across most Andro
 - Safe fallback logic for unknown thermal zones
 ## Installation
 1. Install Magisk v25+ on your device.
-2. Download the latest ZIP from [Releases]().
+2. Download the latest ZIP from [Releases](https://github.com/Januur/UniversalThermalFix/releases).
 3. Open Magisk → Modules → Install from Storage.
 4. Select the ZIP and flash.
 5. Reboot your device.
