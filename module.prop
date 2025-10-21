@@ -1,0 +1,6 @@
+id=beast_thermalfix
+name=Beast Thermal Fix
+version=1.0
+versionCode=1
+author=https://github.com/Januur
+description=Smart thermal control with conservative governor and tuned thermal zones. No performance loss.

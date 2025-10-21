@@ -1,0 +1,2 @@
+ro.cpufreq.governor=conservative
+ro.config.thermal_polling=500
